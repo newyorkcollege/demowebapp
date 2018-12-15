@@ -9,3 +9,4 @@ This is a new file for the given exercise
 		?>
 	</body>
 </html>
+Hope it's good enough for a first timer
