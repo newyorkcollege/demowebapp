@@ -1,2 +1,1 @@
-First git exercise
-<?php echo Welcome to this page;?>
+This is a new file for the given exercise
